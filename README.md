@@ -1,22 +1,16 @@
-👋 Olá, eu sou o Luiz Gustavo!
-🚀 Sobre mim
-    Sou um desenvolvedor em formação, atualmente no 3º semestre de Análise e Desenvolvimento de     Sistemas (ADS). Tenho interesse em C e JavaScript, linguagem que estou começando a aprender e      explorar mais a fundo.
-    Já atuei nas empresas Assefaz e Cipo, onde desenvolvi habilidades em organização de arquivos administrativos, controle financeiro, digitalização de documentos e integração de sistemas como Protheus e Facplan.
+### Detalhes
 
-  Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como desenvolvedor!
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
-🛠️ Tecnologias e Ferramentas
-  Linguagens: C, iniciando em JavaScript
-  Ferramentas: Git, VS Code, SEI, Protheus, Facplan
-  
-📌 O que você encontrará aqui?
-  💡 Projetos práticos e acadêmicos
-  📚 Estudos sobre desenvolvimento de software
-  🔧 Experimentos com novas tecnologias
+### Projetos
 
-📫 Contato
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
-  💼 LinkedIn: linkedin.com/in/devdamascena
-  
-  📧 Email: luizgustavogodamascena3@gmail.com
+### Linguagens utilizadas
 
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+### Contatos
+
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
