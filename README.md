@@ -10,11 +10,7 @@ Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como 
 ## 📊 Detalhes  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusta-xis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-## 📌 Projetos  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta-xis&repo=variavel&theme=dark)](https://github.com/gusta-xis/variavel)  
-
+ 
 ## 🔥 Linguagens utilizadas  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta-xis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
