@@ -1,7 +1,3 @@
-Aqui está o **README** atualizado com os dados da sua conta do GitHub:  
-
----
-
 # 👋 Olá, eu sou o Luiz Gustavo!  
 
 ## 🚀 Sobre mim  
@@ -27,6 +23,3 @@ Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como 
 💼 [LinkedIn](https://linkedin.com/in/devdamascena)  
 📧 **Email:** luizgustavogodamascena3@gmail.com  
 
----
-
-Se precisar de mais ajustes ou quiser adicionar mais informações, me avise! 🚀
