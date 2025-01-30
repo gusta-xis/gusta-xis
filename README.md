@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Olá, eu sou o Luiz Gustavo!
+🚀 Sobre mim
+    Sou um desenvolvedor em formação, atualmente no 3º semestre de Análise e Desenvolvimento de     Sistemas (ADS). Tenho interesse em C e JavaScript, linguagem que estou começando a aprender e      explorar mais a fundo.
+    Já atuei nas empresas Assefaz e Cipo, onde desenvolvi habilidades em organização de arquivos administrativos, controle financeiro, digitalização de documentos e integração de sistemas como Protheus e Facplan.
 
-<!--
-**gusta-xis/gusta-xis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como desenvolvedor!
 
-Here are some ideas to get you started:
+🛠️ Tecnologias e Ferramentas
+  Linguagens: C, iniciando em JavaScript
+  Ferramentas: Git, VS Code, SEI, Protheus, Facplan
+  
+📌 O que você encontrará aqui?
+  💡 Projetos práticos e acadêmicos
+  📚 Estudos sobre desenvolvimento de software
+  🔧 Experimentos com novas tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato
+  💼 LinkedIn: linkedin.com/in/devdamascena
+  📧 Email: luizgustavogodamascena3@gmail.com
+
