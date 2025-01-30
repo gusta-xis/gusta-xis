@@ -17,5 +17,5 @@ Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como 
 
 ## 📫 Contato  
 💼 [LinkedIn](https://linkedin.com/in/devdamascena)  
-📧 **Email:** luizgustavogodamascena3@gmail.com  
+📧 luizgustavogodamascena3@gmail.com  
 
