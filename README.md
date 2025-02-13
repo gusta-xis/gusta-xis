@@ -13,7 +13,7 @@ Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como 
 
 ## 📌 Projetos  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta-xis&repo=My-projects&theme=dark)](https://github.com/gusta-xis/variavel)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta-xis&repo=my-projects&theme=dark)](https://github.com/gusta-xis/variavel)  
 
 ## 🔥 Linguagens utilizadas  
 
