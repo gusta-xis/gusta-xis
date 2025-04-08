@@ -1,25 +1,30 @@
-<!-- Parte superior da página -->
+<!-- Header com efeito render -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
----
 <div align="center">
 
-## 👋 Olá, mundo! Eu sou Luiz Gustavo  
-💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre pronto para aprender algo novo.  
-📚 Estudando Análise e Desenvolvimento de Sistemas – Universidade Católica de Brasília  
-🚀 Explorando projetos com HTML, CSS, JavaScript e lógica de programação.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Olá, eu sou Luiz Gustavo  
+💻 Desenvolvedor em formação | Foco em Front-end e Lógica de Programação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – UCB  
+🚀 Em construção contínua. Vamos codar?
 
 </div>
+
+---
+
+### 📈 Meus Status no GitHub
 
 <div align="center">
   <a href="https://github.com/gusta-xis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta-xis&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusta-xis&theme=react&hide_border=false&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta-xis&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusta-xis&layout=compact&theme=react"/>
+  </a>
 </div>
 
 ---
 
-### 🚀 Tecnologias que venho estudando
+### 🚀 Tecnologias que venho aprendendo
+
 <div style="display: inline_block" align="center"><br>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
@@ -31,8 +36,9 @@
 ---
 
 ### 📬 Onde me encontrar
+
 <div align="center"> 
-  <a href="www.linkedin.com/in/devdamascena" target="_blank">
+  <a href="https://www.linkedin.com/in/devdamascena" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:luizgustavogodamascena3@gmail.com" target="_blank">
@@ -42,20 +48,18 @@
 
 ---
 
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p><b>Quantidade de visitantes</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/gusta-xis/count.svg" />
-</div>
+### 👀 Visual extra do GitHub
 
-<!-- Snake animation de contribuições -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="snake animation" src="https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake.svg">
-</picture>
+- 🌍 Mapa de contribuições (globo):  
+  ![GitHub Globe](https://github-contributor-stats.vercel.app/api?username=gusta-xis&combine_all_yearly_contributions=true)
+
+- 🐍 Snake animado (contribuições):  
+  ![Snake animation](https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake.svg)
+
+- 👁️‍🗨️ Visitantes:  
+  ![Contador de visitas](https://profile-counter.glitch.me/gusta-xis/count.svg)
 
 ---
 
-<!-- Rodapé -->
+<!-- Footer com efeito render -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
