@@ -53,9 +53,6 @@
 - 🌍 Mapa de contribuições (globo):  
   ![GitHub Globe](https://github-contributor-stats.vercel.app/api?username=gusta-xis&combine_all_yearly_contributions=true)
 
-- 🐍 Snake animado (contribuições):  
-  ![Snake animation](https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake.svg)
-
 - 👁️‍🗨️ Visitantes:  
   ![Contador de visitas](https://profile-counter.glitch.me/gusta-xis/count.svg)
 
