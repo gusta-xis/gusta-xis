@@ -1,25 +1,61 @@
-# 👋 Olá, eu sou o Luiz Gustavo!  
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-## 🚀 Sobre mim  
-Sou um desenvolvedor em formação, atualmente no **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)**. Tenho interesse em **C e JavaScript**, linguagem que estou começando a aprender e explorar mais a fundo.  
+---
+<div align="center">
 
-Já atuei nas empresas **Assefaz e Cipo**, onde desenvolvi habilidades em organização de arquivos administrativos, controle financeiro, digitalização de documentos e integração de sistemas como **Protheus e Facplan**.  
+## 👋 Olá, mundo! Eu sou Luiz Gustavo  
+💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre pronto para aprender algo novo.  
+📚 Estudando Análise e Desenvolvimento de Sistemas – Universidade Católica de Brasília  
+🚀 Explorando projetos com HTML, CSS, JavaScript e lógica de programação.
 
-Estou sempre aprendendo novas tecnologias e buscando desafios para crescer como desenvolvedor!  
+</div>
 
-## 📊 Detalhes  
+<div align="center">
+  <a href="https://github.com/gusta-xis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta-xis&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusta-xis&theme=react&hide_border=false&layout=compact"/>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusta-xis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+---
 
-## 📌 Projetos  
+### 🚀 Tecnologias que venho estudando
+<div style="display: inline_block" align="center"><br>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gusta-xis&repo=gusta-xis.github.io&theme=dark)](https://github.com/gusta-xis/gusta-xis.github.io)
+---
 
-## 🔥 Linguagens utilizadas  
+### 📬 Onde me encontrar
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/luizgustavogouvea/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:luizgustavogodamascena3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta-xis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+---
 
-## 📫 Contato  
-💼 [LinkedIn](https://linkedin.com/in/devdamascena)  
-📧 luizgustavogodamascena3@gmail.com  
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p><b>Quantidade de visitantes</b></p>  
+  <img align="center" src="https://profile-counter.glitch.me/gusta-xis/count.svg" />
+</div>
 
+<!-- Snake animation de contribuições -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="snake animation" src="https://raw.githubusercontent.com/gusta-xis/gusta-xis/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
