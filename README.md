@@ -4,7 +4,7 @@
 ---
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Luiz Gustavo
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, Guys! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Luiz Gustavo
 👨🏻‍💻 Desenvolvedor em formação, criativo e apaixonado por tecnologia.<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – UCB<br>
 🚀 Em constante evolução, explorando JavaScript, DOM, HTML, CSS e mais!
