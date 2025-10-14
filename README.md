@@ -27,13 +27,6 @@
 </div>
 <br>
 
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/gusta-xis/count.svg" /></p> 
-  <br>
-</div>
-
 <!-- Redes Sociais -->
 <div align="center"> 
   <a href="https://www.instagram.com/gustaxis._/" target="_blank">
