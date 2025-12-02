@@ -7,7 +7,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, Guys! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Luiz Gustavo
 👨🏻‍💻 Desenvolvedor em formação com experiência em TI, automação de processos e integração de sistemas corporativos.<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – UCB<br>
-🚀 Explorando o universo do Front-End com JavaScript, HTML, CSS, UX/UI e boas práticas de desenvolvimento.<br>
+🚀 Explorando o universo do Front-End e Back-End com JavaScript, HTML, CSS, UX/UI, Node.js, Express.js e boas práticas de desenvolvimento.<br>
 💡 Sempre em busca de transformar ideias em soluções funcionais e acessíveis!
 </div>
 
