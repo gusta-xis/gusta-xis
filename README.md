@@ -36,6 +36,18 @@ Validação de dados • Suporte técnico • Metodologia Ágil (Scrum)
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gusta-xis&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusta-xis&theme=default" />
+</p>
+
+---
+
 ## 🌐 Contato
 
 <p align="center">
