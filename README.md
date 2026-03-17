@@ -101,7 +101,7 @@ Sou desenvolvedor <b>Full Stack</b> apaixonado por criar interfaces que unam <b>
     <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:luizgustavogodamascena3@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=luizgustavogodamascena3@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
