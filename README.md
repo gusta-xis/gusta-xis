@@ -17,10 +17,9 @@
 ## 👤 Sobre Mim
 
 <p align="justify">
-Sou desenvolvedor <b>Full Stack</b> baseado no Brasil, apaixonado por criar interfaces que unam <b>estética e performance</b>. Com foco em tecnologias modernas de desenvolvimento web e design, busco sempre a melhor experiência para o usuário final do protótipo ao deploy. Atuo em projetos corporativos e soluções orientadas a dados, sempre com atenção à qualidade do código e à usabilidade.
+Sou desenvolvedor <b>Full Stack</b> apaixonado por criar interfaces que unam <b>estética e performance</b>. Com foco em tecnologias modernas de desenvolvimento web e design, busco sempre a melhor experiência para o usuário final do protótipo ao deploy. Atuo em projetos corporativos e soluções orientadas a dados, sempre com atenção à qualidade do código e à usabilidade.
 </p>
 
-- 🌍 Baseado no **Brasil**
 - 🔭 Atuando em projetos **Full Stack** com foco em UX/UI
 - 🎨 Apaixonado por **design de interfaces** e acessibilidade
 - 📚 Sempre aprendendo e explorando novas tecnologias
