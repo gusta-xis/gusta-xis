@@ -46,7 +46,7 @@ Sou desenvolvedor <b>Full Stack</b> apaixonado por criar interfaces que unam <b>
           <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark&perline=4"/>
         </td>
         <td align="center" width="200px">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark&perline=4"/>
+          <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark&perline=4"/>
         </td>
         <td align="center" width="200px">
           <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark&perline=4"/>
